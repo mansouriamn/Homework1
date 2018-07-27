@@ -1,0 +1,23 @@
+.grid-container{
+    display: grid;
+    
+}
+.grid-header{
+    display: grid;
+    height: 100px;
+    background-color:white;
+    border-bottom: 2px solid black;
+    
+}
+.grid-body{
+    display: grid;
+    height: 550px;
+    background-color: #dcdcdc;
+}
+.grid-footer{
+    display: grid;
+    height: 50px;
+    background-color:gray;
+    border-top: 6px solid black;
+}
+
